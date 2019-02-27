@@ -112,7 +112,7 @@
       <div class="w-100">
         <h2 class="mb-2">Research Interests</h2>
         <p class="mb-0">Natural language understanding and generation.</p>
-        <p class="mb-5">Deep learning and its application on natural language processing.</p>
+        <p class="mb-5">Deep learning and its application in natural language processing.</p>
 
         <h2 class="mb-2">Skills</h2>
         <p class="mb-0"><strong>Coding</strong> Python, C/C++, LaTex</p>
@@ -129,29 +129,29 @@
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">Math Word Problems Solving</h3>
-              <p>Input a math word problem(involving addition, subtraction, multiplication, division, power), output the solution expression.</p>
+              <p>Input a math word problem(involving in addition, subtraction, multiplication, division, power), output the solution expression.</p>
               <ul class="fa-ul mb-0">
                 <li>
                   <i class="fa-li fa fa-bookmark"></i>
-                  Implement the baseline (Seq2Seq model), and obtain better the result than the original paper(EMNLP 2017), as a result of more careful data processing, strict rules to restrict the generation and better hyperparameter setting. </li>
+                  Implement the baseline (Seq2Seq model), and obtain better performance than the original paper(EMNLP 2017), as a result of careful data processing, strict rules to avoid generating invaild expression and a better hyperparameter setting. </li>
                 <li>
                   <i class="fa-li fa fa-bookmark"></i>
-                  Study the influence of different attention mechanisms containing Bahdanau attention, Luong attention, Dot attention, Minus attention, Bilinear attention. Design and implement multiway attention network motivated by considering different information from various attention mechanism. </li>
+                  Compare performance of different attention mechanisms including Bahdanau attention, Luong attention, Dot attention, Minus attention, Bilinear attention. Design multiway attention network motivated by considering different information from various attention mechanism. </li>
                 <li>
                   <i class="fa-li fa fa-bookmark"></i>
-                  According to the difference between machine translation with math word problem solving, design dynamic embeddings for number token at decoding side, the result is dramatically improved, approximately 2%.  </li>
+                  Considering the fact that context of the number is more important than its exact value, propose dynamic embeddings for numbers at decoding side, and the performance is dramatically improved, approximately 2%. </li>
                 <li>
                   <i class="fa-li fa fa-bookmark"></i>
-                  Data Augmentation for solution expression: generating equivalent expressions to train the model by using commutative property and distributive property based on the motivation that makes the model to learn the math knowledge.  </li>
+                  Data Augmentation for solution expression by generating equivalent expressions, based on the motivation of making the model learn math knowledge about commutative property and distributive property.  </li>
                 <li>
                   <i class="fa-li fa fa-bookmark"></i>
-                  The code of dynamic embeddings and data augmentation is available from <a href="https://github.com/ShichaoSun/math_pade_da" style="color:#393b3c">https://github.com/ShichaoSun/math_pade_da</a></li>
+                  The code of dynamic embeddings and data augmentation is available in <a href="https://github.com/ShichaoSun/math_pade_da" style="color:#393b3c">https://github.com/ShichaoSun/math_pade_da</a></li>
                 <li>
                   <i class="fa-li fa fa-bookmark"></i>
-                  Expression Tree can represent the relationship among the math units better than the sequence, so we design Seq2Tree model to Top-down generate Expression Tree for math word problems.  </li>
+                  Propose a novel Seq2Tree model to directly generate an expression tree instead of generating solution expression, originating from the human-like goal-driven method of solving math word problems. </li>
                 <li>
                   <i class="fa-li fa fa-bookmark"></i>
-                  Code using PyTorch, one paper is under review by IJCAI 2019.  </li>
+                  Code using PyTorch, the paper is under review by IJCAI 2019.  </li>
               </ul>
           </div>
           <div class="resume-date text-md-right">
@@ -166,13 +166,13 @@
               <ul class="fa-ul mb-0">
                 <li>
                   <i class="fa-li fa fa-bookmark"></i>
-                  Detect verb metaphor by using Bi-LSTMs with word embeddings. </li>
+                  Model sentence by BiLSTM from word embeddings to avoid using hand-crafted feature. </li>
                 <li>
                   <i class="fa-li fa fa-bookmark"></i>
-                  Study the influence of different granularity input(SVO, Dependency Sequence, Sentence). </li>
+                  Design three different BiLSTM-based models motivated by three most common types of metaphor. </li>
                 <li>
                   <i class="fa-li fa fa-bookmark"></i>
-                  Code with Lasagne(open source in: <a href="https://github.com/ShichaoSun/metaphor" style="color:#393b3c">https://github.com/ShichaoSun/metaphor</a>), and the paper is published in NLPCC 2017.  </li>
+                  Code with Lasagne is open source in: <a href="https://github.com/ShichaoSun/metaphor" style="color:#393b3c">https://github.com/ShichaoSun/metaphor</a>), and the paper is published in NLPCC 2017.  </li>
               </ul>
           </div>
           <div class="resume-date text-md-right">
@@ -183,7 +183,7 @@
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">Chinese Word Embedding</h3>
-            <p>Adopting word2vec to train Chinese Word Embedding in dependency tree and study the properties.</p>
+            <p>Adopting word2vec algorithm to train Chinese Word Embedding and optimize it by constructing a better bag of words from dependency tree.</p>
           </div>
           <div class="resume-date text-md-right">
             <span class="text-primary">2015 - 2016</span>
