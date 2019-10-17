@@ -76,9 +76,9 @@ p.lead {
 }
 
 #visitor-counter {
-  display: block;
   width: 20%;
-  align-content: center;
+  text-align: center;
+
 }
 
 .dev-icons {
