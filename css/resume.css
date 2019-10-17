@@ -76,6 +76,7 @@ p.lead {
 }
 
 #visitor-counter {
+  display: block;
   width: 16%;
   margin-left: 42%;
 }

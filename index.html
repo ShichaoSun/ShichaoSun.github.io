@@ -19,7 +19,7 @@
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="css/resume.min.css" rel="stylesheet">
+  <link href="css/resume.css" rel="stylesheet">
 
 </head>
 
@@ -40,17 +40,17 @@
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#about">About</a>
         </li>
-         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#interests">Interests & Skills</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#experience">Research Experience</a>
-        </li>
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#education">Education</a>
         </li>
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#publications">Publications & Awards</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#interests">Interests & Skills</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Research Experience</a>
         </li>
         <!--
         <li class="nav-item">
@@ -64,7 +64,7 @@
   <div class="container-fluid p-0">
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
-      <div class="w-100 mb-5">
+      <div class="w-100">
         <h1 class="mb-0">Shichao
           <span class="text-primary">Sun</span>
         </h1>
@@ -82,7 +82,7 @@
         <strong>Here is my <a href="resume.pdf"><strong>CV</strong></a> </strong>
         </p>
 
-        <div class="social-icons">
+        <div class="social-icons mb-5">
           <a href="mailto:scsun17@fudan.edu.cn">
             <i class="fab fa fa-envelope"></i>
           </a>
@@ -104,6 +104,118 @@
         <table id="visitor-counter">
             <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=znRcM_-wWIeOCXT_DedJi1KBc7dYTFfUXarYJt_yXzA"></script>
         </table>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+      <div class="w-100">
+        <h2 class="mb-5">Education</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0">Fudan University</h3>
+            <div class="subheading mb-0">Master of Engineering</div>
+            <div class="mb-0">Computer Technology - Natural Language Processing(NLP)</div>
+            <p class="mb-5">GPA: 3.43/4.0</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Sep. 2017 - Jan. 2020(Expected)</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Fudan University</h3>
+            <div class="subheading mb-0">Bachelor of Management</div>
+            <div class="mb-0">Secrecy Policy and Management</div>
+            <p class="mb-5">GPA: 3.15/4.0</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Sep. 2013 - Jun. 2017</span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="publications">
+      <div class="w-100">
+        <h2 class="mb-2">Publications</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-2">
+          <div class="resume-content">
+           <ul class="fa-ul mb-0">
+              <li>
+                <i class="fa-li far fa-file-alt text-warning"></i>
+               <strong>Shichao Sun</strong> and Zhipeng Xie. 2017. BiLSTM-Based Models for Metaphor Detection. In <i>National CCF Conference on Natural Language Processing and Chinese Computing(NLPCC)</i>.
+               <a class="btn btn-sm btn-pdf" href="https://link.springer.com/chapter/10.1007/978-3-319-73618-1_36" target="blank">pdf</a>
+               <a class="btn btn-sm btn-code" href="https://github.com/shichaosun/metaphor" target="blank">code</a>
+               <a class="btn btn-sm btn-bib" href="#bibtex-sun2017bilstm" data-toggle="collapse">bib</a>
+               <pre id="bibtex-sun2017bilstm" class="collapse bib-tex">
+@inproceedings{sun2017bilstm,
+title={Bilstm-based models for metaphor detection},
+author={Sun, Shichao and Xie, Zhipeng},
+booktitle={National CCF Conference on Natural Language Processing and Chinese Computing},
+pages={431--442},
+year={2017},
+organization={Springer}</pre>
+               </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+           <ul class="fa-ul mb-0">
+              <li>
+                <i class="fa-li far fa-file-alt text-warning"></i>
+                Zhipeng Xie* and <strong>Shichao Sun*</strong>. 2019. A Goal-Driven Tree-Structured Neural Model for Math Word Problems. In <i>International Joint Conference on Artificial Intelligence(IJCAI)</i>. <em>* indicates equal contribution</em>
+               <a class="btn btn-sm btn-pdf" href="https://www.ijcai.org/proceedings/2019/0736.pdf" target="blank">pdf</a>
+               <a class="btn btn-sm btn-code" href="https://github.com/ShichaoSun/math_seq2tree" target="blank">code</a>
+               <a class="btn btn-sm btn-bib" href="#bibtex-xieijcai2019" data-toggle="collapse">bib</a>
+               <pre id="bibtex-xieijcai2019" class="collapse bib-tex">
+@inproceedings{ijcai2019-736,
+  title     = {A Goal-Driven Tree-Structured Neural Model for Math Word Problems},
+  author    = {Xie, Zhipeng and Sun, Shichao},
+  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
+               Artificial Intelligence, {IJCAI-19}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  pages     = {5299--5305},
+  year      = {2019},
+  month     = {7},
+  doi       = {10.24963/ijcai.2019/736},
+  url       = {https://doi.org/10.24963/ijcai.2019/736},
+}</pre>
+               </li>
+            </ul>
+          </div>
+        </div>
+
+        <h2 class="mb-2">Awards</h2>
+        <ul class="fa-ul mb-0">
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            <b>National Scholarship</b>, 2019. </li>
+          <li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            <b>Excellent Student</b> at Fudan University, 2018. </li>
+          <li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            <b>Scholarship for Outstanding Students</b> at Fudan University, 2018. </li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            <b>Outstanding Paper</b> of CCF NLPCC, 2017.</li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            <b>National Encouragement scholarship</b>, 2014, 2015, 2016</li>
+        </ul>
+
       </div>
     </section>
 
@@ -196,117 +308,6 @@
 
     </section>
 
-    <hr class="m-0">
-
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
-      <div class="w-100">
-        <h2 class="mb-5">Education</h2>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
-          <div class="resume-content">
-            <h3 class="mb-0">Fudan University</h3>
-            <div class="subheading mb-0">Master of Engineering</div>
-            <div class="mb-0">Computer Technology - Natural Language Processing(NLP)</div>
-            <p class="mb-5">GPA: 3.43/4.0</p>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">Sep. 2017 - Jan. 2020(Expected)</span>
-          </div>
-        </div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">Fudan University</h3>
-            <div class="subheading mb-0">Bachelor of Management</div>
-            <div class="mb-0">Secrecy Policy and Management</div>
-            <p class="mb-5">GPA: 3.15/4.0</p>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">Sep. 2013 - Jun. 2017</span>
-          </div>
-        </div>
-
-      </div>
-    </section>
-
-    <hr class="m-0">
-
-    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="publications">
-      <div class="w-100">
-        <h2 class="mb-2">Publications</h2>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-2">
-          <div class="resume-content">
-           <ul class="fa-ul mb-0">
-              <li>
-                <i class="fa-li far fa-file-alt text-primary"></i>
-               <strong>Shichao Sun</strong> and Zhipeng Xie. 2017. BiLSTM-Based Models for Metaphor Detection. In <i>National CCF Conference on Natural Language Processing and Chinese Computing(NLPCC)</i>. 
-               <a class="btn btn-sm btn-pdf" href="https://link.springer.com/chapter/10.1007/978-3-319-73618-1_36" target="blank">pdf</a>
-               <a class="btn btn-sm btn-code" href="https://github.com/shichaosun/metaphor" target="blank">code</a>
-               <a class="btn btn-sm btn-bib" href="#bibtex-sun2017bilstm" data-toggle="collapse">bib</a>
-               <pre id="bibtex-sun2017bilstm" class="collapse bib-tex">
-@inproceedings{sun2017bilstm,
-title={Bilstm-based models for metaphor detection},
-author={Sun, Shichao and Xie, Zhipeng},
-booktitle={National CCF Conference on Natural Language Processing and Chinese Computing},
-pages={431--442},
-year={2017},
-organization={Springer}</pre>
-               </li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-           <ul class="fa-ul mb-0">
-              <li>
-                <i class="fa-li far fa-file-alt text-primary"></i>
-                Zhipeng Xie* and <strong>Shichao Sun*</strong>. 2019. A Goal-Driven Tree-Structured Neural Model for Math Word Problems. In <i>International Joint Conference on Artificial Intelligence(IJCAI)</i>. <em>* indicates equal contribution</em>
-               <a class="btn btn-sm btn-pdf" href="https://www.ijcai.org/proceedings/2019/0736.pdf" target="blank">pdf</a>
-               <a class="btn btn-sm btn-code" href="https://github.com/ShichaoSun/math_seq2tree" target="blank">code</a>
-               <a class="btn btn-sm btn-bib" href="#bibtex-xieijcai2019" data-toggle="collapse">bib</a>
-               <pre id="bibtex-xieijcai2019" class="collapse bib-tex">
-@inproceedings{ijcai2019-736,
-  title     = {A Goal-Driven Tree-Structured Neural Model for Math Word Problems},
-  author    = {Xie, Zhipeng and Sun, Shichao},
-  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
-               Artificial Intelligence, {IJCAI-19}},
-  publisher = {International Joint Conferences on Artificial Intelligence Organization},
-  pages     = {5299--5305},
-  year      = {2019},
-  month     = {7},
-  doi       = {10.24963/ijcai.2019/736},
-  url       = {https://doi.org/10.24963/ijcai.2019/736},
-}</pre>
-               </li>
-            </ul>
-          </div>
-        </div>
-
-        <h2 class="mb-2">Awards</h2>
-        <ul class="fa-ul mb-0">
-          <li>
-            <i class="fa-li fa fa-trophy text-primary"></i>
-            <b>National Scholarship</b>, 2019. </li>
-          <li>
-          <li>
-            <i class="fa-li fa fa-trophy text-primary"></i>
-            <b>Excellent Student</b> at Fudan University, 2018. </li>
-          <li>
-          <li>
-            <i class="fa-li fa fa-trophy text-primary"></i>
-            <b>Scholarship for Outstanding Students</b> at Fudan University, 2018. </li>
-          <li>
-            <i class="fa-li fa fa-trophy text-primary"></i>
-            <b>Outstanding Paper</b> of CCF NLPCC, 2017.</li>
-          <li>
-            <i class="fa-li fa fa-trophy text-primary"></i>
-            <b>National Encouragement scholarship</b>, 2014, 2015, 2016</li>
-        </ul>
-
-      </div>
-    </section>
     <!--
     <hr class="m-0">
 
