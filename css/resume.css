@@ -77,6 +77,7 @@ p.lead {
 
 .visitor-counter{
   min-height: 10px;
+  align-content: center;
 }
 
 .dev-icons {
