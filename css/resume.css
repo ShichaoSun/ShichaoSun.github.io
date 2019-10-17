@@ -77,9 +77,10 @@ p.lead {
 
 #visitor-counter {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 16%;
-  margin-left: 42%;
-  height: auto;
+  position: absolute;
 }
 
 .dev-icons {
