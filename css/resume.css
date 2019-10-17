@@ -75,6 +75,12 @@ p.lead {
   background-color: #BD5D38;
 }
 
+.visitor-counter {
+  display: block;
+  width: 20%;
+  align-content: center;
+}
+
 .dev-icons {
   font-size: 3rem;
 }
