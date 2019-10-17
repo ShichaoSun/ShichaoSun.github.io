@@ -75,6 +75,10 @@ p.lead {
   background-color: #BD5D38;
 }
 
+.visitor-counter{
+  min-height: 10px;
+}
+
 .dev-icons {
   font-size: 3rem;
 }
