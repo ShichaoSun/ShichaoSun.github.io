@@ -79,6 +79,7 @@ p.lead {
   display: block;
   width: 16%;
   margin-left: 42%;
+  height: auto;
 }
 
 .dev-icons {
