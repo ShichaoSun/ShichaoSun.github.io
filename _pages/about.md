@@ -14,12 +14,18 @@ Before that, I received my B.S. degree (in 2017) and M.S. degree (in 2020) from 
 
 🚀 Currently, I work closely with Assoc. Prof. [Pengfei Liu](http://pfliu.com/) at [GAIR](https://plms.ai/) Lab on Large Language Models (LLMs).
 
-<h2>Educations</h2>
+🔔 Last Update on Jan. 2024
+
+<div markdown="1"> 
+### Educations
+</div>
 - *2020.09 - now*, Ph.D., The Hong Kong Polytechnic University.
 - *2017.09 - 2020.01*, M.S., Fudan University.
 - *2013.09 - 2017.03*, B.S., Fudan University.
 
-<h2 id="publications">Publications</h2>
+<div id="publications" markdown="1"> 
+### Publications
+</div>
 
 (* indicates equal contribution)
 
@@ -114,4 +120,3 @@ Zhipeng Xie\*, **Shichao Sun**\*\\
 **NLPCC, 2017** |  [PDF](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_36) | [Code](https://github.com/ShichaoSun/metaphor)
 </div>
 
-<center> Last Update on Jan. 2024 </center>
