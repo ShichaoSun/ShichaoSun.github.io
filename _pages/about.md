@@ -17,14 +17,14 @@ Before that, I received my B.S. degree (in 2017) and M.S. degree (in 2020) from 
 🔔 Last Update on Jan. 2024
 
 <div markdown="1"> 
-### Educations
+## Educations
 </div>
 - *2020.09 - now*, Ph.D., The Hong Kong Polytechnic University.
 - *2017.09 - 2020.01*, M.S., Fudan University.
 - *2013.09 - 2017.03*, B.S., Fudan University.
 
 <div id="publications" markdown="1"> 
-### Publications
+## Publications
 </div>
 
 (* indicates equal contribution)
