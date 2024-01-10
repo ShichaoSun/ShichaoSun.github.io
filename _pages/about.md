@@ -23,84 +23,84 @@ Before that, I received my B.S. degree (in 2017) and M.S. degree (in 2020) from 
 
 (* indicates equal contribution)
 
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">The Critique of Critique
 </font>
 **Shichao Sun**, Junlong Li, Weizhe Yuan, Ruifeng Yuan, Wenjie Li, Pengfei Liu\\
 **Preprint, 2024** |  [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0306457323003722) | [Code](https://github.com/GAIR-NLP/MetaCritique)
 </div>
 
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Evolving Large Language Model Assistant with Long-Term Conditional Memory
 </font>
 **Shichao Sun**, Ruifeng Yuan, Wenjie Li, Ziqiang Cao, Sujian Li\\
 **IPM, 2024** |  [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0306457323003722)
 </div>
 
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Generative Judge for Evaluating Alignment
 </font>
 Junlong Li, **Shichao Sun**, Weizhe Yuan, Run-Ze Fan, Hai Zhao, Pengfei Liu \\
 **Preprint, 2023** |  [PDF](https://arxiv.org/abs/2310.05470) | [Code](https://github.com/GAIR-NLP/auto-j) | [Page](https://gair-nlp.github.io/auto-j/)
 </div>
 
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Evolving Large Language Model Assistant with Long-Term Conditional Memory
 </font>
 Ruifeng Yuan, **Shichao Sun**, Zili Wang, Ziqiang Cao, Wenjie Li\\
 **Preprint, 2023** |  [PDF](https://arxiv.org/abs/2312.17257) | [Code](https://github.com/RuifengYuan/Evolving-LLM-Assistant-with-Long-Term-Conditional-Memory)
 </div>
 
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Aligning Language Models with Human Preferences via a Bayesian Approach
 </font>
 Jiashuo Wang, Haozhao Wang, **Shichao Sun**, Wenjie Li\\
 **NeurIPS, 2023** |  [PDF](https://arxiv.org/abs/2310.05782) | [Code](https://github.com/wangjs9/aligned-dpm)
 </div>
 
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Data Selection Curriculum for Abstractive Text Summarization
 </font>
 **Shichao Sun**, Ruifeng Yuan, Jianfei He, Ziqiang Cao, Wenjie Li, Xiaohua Jia\\
 **EMNLP Findings, 2023** |  [PDF](https://aclanthology.org/2023.findings-emnlp.537/)
 </div>
 
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Separating Context and Pattern: Learning Disentangled Sentence Representations for Low-Resource Extractive Summarization
 </font>
 Ruifeng Yuan, **Shichao Sun**, Zili Wang, Ziqiang Cao, Wenjie Li\\
 **ACL Findings, 2023** |  [PDF](https://aclanthology.org/2023.findings-acl.479/) | [Code](https://github.com/RuifengYuan/Distangled-Ext-Sum)
 </div>
 
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Improving Sentence Similarity Estimation for Unsupervised Extractive Summarization
 </font>
 **Shichao Sun**, Ruifeng Yuan, Wenjie Li, Sujian Li \\
 **ICASSP, 2023** |  [PDF](https://ieeexplore.ieee.org/abstract/document/10096137/) | [Code](https://github.com/ShichaoSun/SS4Sum)
 </div>
 
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Empirical Analysis of Beam Search Curse and Search Errors with Model Errors in Neural Machine Translation
 </font>
 Jianfei He, **Shichao Sun**, Xiaohua Jia, Wenjie Li \\
 **EAMT, 2023** |  [PDF](https://aclanthology.org/2023.eamt-1.10/) 
 </div>
 
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Rethinking the framework constructed by counterfactual functional model
 </font>
 Chao Wang, Linfang Liu, **Shichao Sun**, Wei Wang \\
 **Applied Intelligence, 2022** |  [PDF](https://link.springer.com/article/10.1007/s10489-022-03161-8)
 </div>
 
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Alleviating Exposure Bias via Contrastive Learning for Abstractive Text Summarization
 </font>
 **Shichao Sun**, Wenjie Li \\
 **arXiv, 2021** |  [PDF](https://arxiv.org/abs/2108.11846) | [Code](https://github.com/ShichaoSun/ConAbsSum)
 </div>
 
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">A Goal-Driven Tree-Structured Neural Model for Math Word Problems
 </font>
 Zhipeng Xie\*, **Shichao Sun**\*\\
