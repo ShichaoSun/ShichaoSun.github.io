@@ -70,30 +70,35 @@ Jiashuo Wang, Haozhao Wang, **Shichao Sun**, Wenjie Li\\
 </font>
 Ruifeng Yuan, **Shichao Sun**, Zili Wang, Ziqiang Cao, Wenjie Li\\
 **ACL Findings, 2023** |  [PDF](https://aclanthology.org/2023.findings-acl.479/) | [Code](https://github.com/RuifengYuan/Distangled-Ext-Sum)
+</div>
 
 <div class='paper-box-text' markdown="2">
 <font color="CornFlowerBlue">Improving Sentence Similarity Estimation for Unsupervised Extractive Summarization
 </font>
 **Shichao Sun**, Ruifeng Yuan, Wenjie Li, Sujian Li \\
 **ICASSP, 2023** |  [PDF](https://ieeexplore.ieee.org/abstract/document/10096137/) | [Code](https://github.com/ShichaoSun/SS4Sum)
+</div>
 
 <div class='paper-box-text' markdown="2">
 <font color="CornFlowerBlue">Empirical Analysis of Beam Search Curse and Search Errors with Model Errors in Neural Machine Translation
 </font>
 Jianfei He, **Shichao Sun**, Xiaohua Jia, Wenjie Li \\
 **EAMT, 2023** |  [PDF](https://aclanthology.org/2023.eamt-1.10/) 
+</div>
 
 <div class='paper-box-text' markdown="2">
 <font color="CornFlowerBlue">Rethinking the framework constructed by counterfactual functional model
 </font>
 Chao Wang, Linfang Liu, **Shichao Sun**, Wei Wang \\
 **Applied Intelligence, 2022** |  [PDF](https://link.springer.com/article/10.1007/s10489-022-03161-8)
+</div>
 
 <div class='paper-box-text' markdown="2">
 <font color="CornFlowerBlue">Alleviating Exposure Bias via Contrastive Learning for Abstractive Text Summarization
 </font>
 **Shichao Sun**, Wenjie Li \\
 **arXiv, 2021** |  [PDF](https://arxiv.org/abs/2108.11846) | [Code](https://github.com/ShichaoSun/ConAbsSum)
+</div>
 
 <div class='paper-box-text' markdown="2">
 <font color="CornFlowerBlue">A Goal-Driven Tree-Structured Neural Model for Math Word Problems
