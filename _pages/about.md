@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 ✨ Hi everyone! I'm Shichao.
-I am currently a fourth-year Ph.D. student in the Department of Computing at the Hong Kong Polytechnic University, under the supervision of Prof. [Maggie Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/).
+I am currently a fourth-year Ph.D. student in the Department of Computing at the Hong Kong Polytechnic University, under the supervision of Prof. [Maggie Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/). 
 Before that, I received my B.S. degree (in 2017) and M.S. degree (in 2020) from Fudan University under the supervision of Assoc. Prof. [Zhipeng Xie](https://scholar.google.com/citations?user=-zlBDNIAAAAJ&hl=en).
+My research focuses on Math Reasoning, Text Summarization and Large Language Model. 
 
 🚀 Currently, I work closely with Assoc. Prof. [Pengfei Liu](http://pfliu.com/) at [GAIR](https://plms.ai/) Lab on Large Language Models (LLMs).
 
-🔔 Last Update on Jan. 2024
+🔔 I am on the 2024-2025 job market. (Last Update on Jan. 2024)
 
 <div markdown="1"> 
 ## Educations
