@@ -14,7 +14,7 @@ Before that, I received my B.S. degree (in 2017) and M.S. degree (in 2020) from 
 My research focuses on Math Reasoning, Text Summarization and Large Language Model. 
 \\
 🚀 Currently, I work closely with Assoc. Prof. [Pengfei Liu](http://pfliu.com/) at [GAIR](https://plms.ai/) Lab on Large Language Models (LLMs).
-\\
+
 🔔 I am on the 2024-2025 job market. (Last Update on Jan. 2024)
 
 <div markdown="1"> 
