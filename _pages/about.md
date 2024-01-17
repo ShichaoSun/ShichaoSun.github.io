@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Shichao Sun"
-excerpt: "Shichao Sun"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<div id="about-me" markdown="1"> 
+# About Me
+</div>
 ✨ Hi everyone! I'm Shichao.
 I am currently a fourth-year Ph.D. student in the Department of Computing at the Hong Kong Polytechnic University, under the supervision of Prof. [Maggie Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/). 
 Before that, I received my B.S. degree (in 2017) and M.S. degree (in 2020) from Fudan University under the supervision of Assoc. Prof. [Zhipeng Xie](https://scholar.google.com/citations?user=-zlBDNIAAAAJ&hl=en).
@@ -17,15 +19,15 @@ My research focuses on Math Reasoning, Text Summarization and Large Language Mod
 
 🔔 I am on the 2024-2025 job market. (Last Update on Jan. 2024)
 
-<div markdown="1"> 
-## Educations
+<div id="educations" markdown="1"> 
+# 📖 Educations
 </div>
 - *2020.09 - now*, Ph.D., The Hong Kong Polytechnic University.
 - *2017.09 - 2020.01*, M.S., Fudan University.
 - *2013.09 - 2017.03*, B.S., Fudan University.
 
 <div id="publications" markdown="1"> 
-## Publications
+# 📝 Publications
 </div>
 
 (* indicates equal contribution)
@@ -134,3 +136,12 @@ Zhipeng Xie\*, **Shichao Sun**\*\\
 **NLPCC, 2017** |  [PDF](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_36) | [Code](https://github.com/ShichaoSun/metaphor)
 </div>
 
+<div id="honors" markdown="1"> 
+# 🎖 Honors and Awards
+</div>
+- Excellent Graduates in Shanghai, 2020
+- National Scholarship, 2019
+- Excellent Student in Fudan University, 2018
+- Scholarship for Outstanding Students in Fudan University, 2018
+- Outstanding Paper of CCF NLPCC, 2017
+- National Encouragement Scholarship, 2014, 2015, 2016
