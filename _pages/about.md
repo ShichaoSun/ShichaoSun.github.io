@@ -10,6 +10,7 @@ redirect_from:
 <div id="about-me" markdown="1"> 
 # About Me
 </div>
+
 ✨ Hi everyone! I'm Shichao.
 I am currently a fourth-year Ph.D. student in the Department of Computing at the Hong Kong Polytechnic University, under the supervision of Prof. [Maggie Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/). 
 Before that, I received my B.S. degree (in 2017) and M.S. degree (in 2020) from Fudan University under the supervision of Assoc. Prof. [Zhipeng Xie](https://scholar.google.com/citations?user=-zlBDNIAAAAJ&hl=en).
