@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Shichao Sun"
+excerpt: "Shichao Sun"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<div id="about-me" markdown="1"> 
-# About Me
-</div>
 
 ✨ Hi everyone! I'm Shichao.
 I am currently a fourth-year Ph.D. student in the Department of Computing at the Hong Kong Polytechnic University, under the supervision of Prof. [Maggie Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/). 
