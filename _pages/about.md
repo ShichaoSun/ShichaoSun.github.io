@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "Shichao Sun"
-excerpt: "Shichao Sun"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+  
+<div id="abouts" markdown="1"> 
+## About Me
+</div>
 
 ✨ Hi everyone! 
 I am currently a fourth-year Ph.D. student in the Department of Computing at the Hong Kong Polytechnic University, under the supervision of Prof. [Maggie Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/). 
@@ -18,14 +22,14 @@ My research focuses on Math Reasoning, Text Summarization and Large Language Mod
 🔔 I am on the 2024-2025 job market. (Last Update on Jan. 2024)
 
 <div id="educations" markdown="1"> 
-# 📖 Educations
+## 📖 Educations
 </div>
 - *2020.09 - now*, Ph.D., The Hong Kong Polytechnic University.
 - *2017.09 - 2020.01*, M.S., Fudan University.
 - *2013.09 - 2017.03*, B.S., Fudan University.
 
 <div id="publications" markdown="1"> 
-# 📝 Publications
+## 📝 Publications
 </div>
 
 (* indicates equal contribution)
@@ -135,7 +139,7 @@ Zhipeng Xie\*, **Shichao Sun**\*\\
 </div>
 
 <div id="honors" markdown="1"> 
-# 🎖 Honors and Awards
+## 🎖 Honors and Awards
 </div>
 - Excellent Graduates in Shanghai, 2020
 - National Scholarship, 2019
