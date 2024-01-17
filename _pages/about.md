@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-✨ Hi everyone! I'm Shichao.
+✨ Hi everyone! 
 I am currently a fourth-year Ph.D. student in the Department of Computing at the Hong Kong Polytechnic University, under the supervision of Prof. [Maggie Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/). 
 Before that, I received my B.S. degree (in 2017) and M.S. degree (in 2020) from Fudan University under the supervision of Assoc. Prof. [Zhipeng Xie](https://scholar.google.com/citations?user=-zlBDNIAAAAJ&hl=en).
 My research focuses on Math Reasoning, Text Summarization and Large Language Model. 
