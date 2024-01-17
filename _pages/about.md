@@ -51,7 +51,7 @@ My research focuses on Math Reasoning, Text Summarization and Large Language Mod
 </b>
 \\
 Junlong Li, **Shichao Sun**, Weizhe Yuan, Run-Ze Fan, Hai Zhao, Pengfei Liu \\
-**Preprint, 2023** |  [PDF](https://arxiv.org/abs/2310.05470) | [Code](https://github.com/GAIR-NLP/auto-j) | [Page](https://gair-nlp.github.io/auto-j/)
+**ICLR, 2024** |  [PDF](https://arxiv.org/abs/2310.05470) | [Code](https://github.com/GAIR-NLP/auto-j) | [Page](https://gair-nlp.github.io/auto-j/)
 </div>
 
 <div class='paper-box-text' markdown="1">
