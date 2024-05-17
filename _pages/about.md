@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-✨ Hi everyone! 
-
-I am currently a final-year PhD candidate in [PolyU NLP Group](https://polyunlp.github.io/) at the Hong Kong Polytechnic University, fortunately supervised by Prof. [Maggie Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/). 
+✨ Hi everyone! I am currently a final-year PhD candidate in [PolyU NLP Group](https://polyunlp.github.io/) at the Hong Kong Polytechnic University, fortunately supervised by Prof. [Maggie Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/). 
 Before that, I received my B.S. degree (in 2017) and M.S. degree (in 2020) from Fudan University under the supervision of Assoc. Prof. [Zhipeng Xie](https://scholar.google.com/citations?user=-zlBDNIAAAAJ&hl=en).
+
 My research focuses on Large Language Model, Math Reasoning, and Retrieval-Augmented Generation. 
 
 🚀 Currently, I work closely with Assoc. Prof. [Pengfei Liu](http://pfliu.com/) at [GAIR Lab](https://plms.ai/) on Large Language Models (LLMs).
@@ -28,7 +27,7 @@ My research focuses on Large Language Model, Math Reasoning, and Retrieval-Augme
 🔔 I am on the 2024-2025 job market. (Last Update on May 2024)
 
 <a href='https://scholar.google.com/citations?user=M7g3H9YAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-<a href='./_uploads/Shichao_Sun_Resume.pdf'><img src="https://img.shields.io/badge/-Shichao's Resumé-299DE7?logo=gitbook&logoColor=white"></a>
+<a href='./uploads/Shichao_Sun_Resume.pdf'><img src="https://img.shields.io/badge/-Shichao's Resumé-299DE7?logo=gitbook&logoColor=white"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fshichaosun.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=page+hits&edge_flat=false"/></a>
 
 <div id="educations" markdown="1"> 
