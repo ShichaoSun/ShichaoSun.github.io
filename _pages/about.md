@@ -20,7 +20,7 @@ redirect_from:
 ✨ Hi everyone! I am currently a final-year PhD candidate in [PolyU NLP Group](https://polyunlp.github.io/) at the Hong Kong Polytechnic University, fortunately supervised by Prof. [Maggie Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/). 
 Before that, I received my B.S. degree (in 2017) and M.S. degree (in 2020) from Fudan University under the supervision of Assoc. Prof. [Zhipeng Xie](https://scholar.google.com/citations?user=-zlBDNIAAAAJ&hl=en).
 
-My research focuses on Large Language Model, Math Reasoning, and Retrieval-Augmented Generation. 
+🔥 My research focuses on Large Language Model, Math Reasoning, and Retrieval-Augmented Generation. 
 
 🚀 Currently, I work closely with Assoc. Prof. [Pengfei Liu](http://pfliu.com/) at [GAIR Lab](https://plms.ai/) on Large Language Models (LLMs).
 
