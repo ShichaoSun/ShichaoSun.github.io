@@ -18,10 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 ✨ Hi everyone! 
+
 I am currently a final-year PhD candidate in [PolyU NLP Group](https://polyunlp.github.io/) at the Hong Kong Polytechnic University, fortunately supervised by Prof. [Maggie Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/). 
 Before that, I received my B.S. degree (in 2017) and M.S. degree (in 2020) from Fudan University under the supervision of Assoc. Prof. [Zhipeng Xie](https://scholar.google.com/citations?user=-zlBDNIAAAAJ&hl=en).
 My research focuses on Large Language Model, Math Reasoning, and Retrieval-Augmented Generation. 
-\\
+
 🚀 Currently, I work closely with Assoc. Prof. [Pengfei Liu](http://pfliu.com/) at [GAIR Lab](https://plms.ai/) on Large Language Models (LLMs).
 
 🔔 I am on the 2024-2025 job market. (Last Update on May 2024)
@@ -31,14 +32,14 @@ My research focuses on Large Language Model, Math Reasoning, and Retrieval-Augme
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fshichaosun.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=page+hits&edge_flat=false"/></a>
 
 <div id="educations" markdown="1"> 
-## 📖 Educations
+# 📖 Educations
 </div>
 - *2020.09 - 2024.08 (Expected)*, Ph.D., The Hong Kong Polytechnic University.
 - *2017.09 - 2020.01*, M.S., Fudan University.
 - *2013.09 - 2017.03*, B.S., Fudan University.
 
 <div id="publications" markdown="1"> 
-## 📝 Selected Publications
+# 📝 Selected Publications
 </div>
 
 (* indicates equal contribution)
@@ -156,7 +157,7 @@ Zhipeng Xie\*, **Shichao Sun**\*\\
 </div>
 
 <div id="honors" markdown="1"> 
-## 🎖 Honors and Awards
+# 🎖 Honors and Awards
 </div>
 - Excellent Graduates in Shanghai, 2020
 - National Scholarship, 2019
