@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shichao Sun's Homepage"
-description              : "PhD Candidate @ PolyU"
+description              : "SJTU Visiting"
 repository               : "ShichaoSun/ShichaoSun.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Shichao Sun"
   name2            : "孙世超"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "SJTU visiting"
+  bio              : "PhD Candidate @ PolyU"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
