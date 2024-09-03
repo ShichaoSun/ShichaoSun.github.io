@@ -34,8 +34,8 @@ Prior to PolyU, I received my Bachelor (in 2017) and Master (in 2020) degrees fr
 # 📖 Educations
 </div>
 - *2020.09 - 2024.08*, Ph.D., The Hong Kong Polytechnic University.
-- *2017.09 - 2020.01*, M.S., Fudan University.
-- *2013.09 - 2017.06*, B.S., Fudan University.
+- *2017.09 - 2020.01*, Master, Fudan University.
+- *2013.09 - 2017.06*, Bachelor, Fudan University.
 
 <div id="publications" markdown="1"> 
 # 📝 Selected Publications
