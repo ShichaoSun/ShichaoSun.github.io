@@ -24,7 +24,7 @@ Prior to PolyU, I received my Bachelor (in 2017) and Master (in 2020) degrees fr
 
 🚀 I am always open to new collaborations and engaging discussions. Feel free to reach out if you are interested in working together or just want to chat!
 
-🔔 Last Update on Sep. 2024
+🔔 Last Update on Oct. 2024
 
 <a href='https://scholar.google.com/citations?user=M7g3H9YAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 <a href='./uploads/Shichao_Sun_Resume.pdf'><img src="https://img.shields.io/badge/-Shichao's Resumé-299DE7?logo=gitbook&logoColor=white"></a>
@@ -48,7 +48,7 @@ Prior to PolyU, I received my Bachelor (in 2017) and Master (in 2020) degrees fr
 </b>
 \\
 Yuxiang Zheng\*, **Shichao Sun**\*, Lin Qiu, Dongyu Ru, Cheng Jiayang, Xuefeng Li, Jifan Lin, Binjie Wang, Yun Luo, Renjie Pan, Yang Xu, Qingkai Min, Zizhao Zhang, Yiwen Wang, Wenjie Li, Pengfei Liu\\
-**arXiv, 2024** |  [PDF](https://arxiv.org/abs/2408.06941) | [Code](https://github.com/GAIR-NLP/OpenResearcher/) [![GitHub Repo stars](https://img.shields.io/github/stars/GAIR-NLP/OpenResearcher)](https://github.com/GAIR-NLP/OpenResearcher/)
+**EMNLP Demo, 2024** |  [PDF](https://arxiv.org/abs/2408.06941) | [Code](https://github.com/GAIR-NLP/OpenResearcher/) [![GitHub Repo stars](https://img.shields.io/github/stars/GAIR-NLP/OpenResearcher)](https://github.com/GAIR-NLP/OpenResearcher/)
 
 </div>
 
