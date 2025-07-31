@@ -27,8 +27,6 @@ Prior to PolyU, I received my Bachelor (in 2017) and Master (in 2020) degrees fr
 🔔 Last Update on Oct. 2024
 
 <a href='https://scholar.google.com/citations?user=M7g3H9YAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-<a href='./uploads/Shichao_Sun_Resume.pdf'><img src="https://img.shields.io/badge/-Shichao's Resumé-299DE7?logo=gitbook&logoColor=white"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fshichaosun.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=page+hits&edge_flat=false"/></a>
 
 <div id="educations" markdown="1"> 
 # 📖 Educations
