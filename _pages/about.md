@@ -17,16 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-✨ Hi everyone! I am currently an Applied Scientist at Amazon Web Service (AWS) Shanghai AI Lab. Before joining AWS, I obtained my Ph.D. (in 2024) from the Hong Kong Polytechnic University, fortunately supervised by Prof. [Maggie Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/). During the final year of my Ph.D. (2023-2024), I enjoyed the privilege of working closely with Assoc. Prof. [Pengfei Liu](http://pfliu.com/) at [GAIR Lab](https://plms.ai/), focusing on advancements in Large Language Models (LLMs). 
-Prior to PolyU, I received my Bachelor (in 2017) and Master (in 2020) degrees from Fudan University, mentored by Assoc. Prof. [Zhipeng Xie](https://scholar.google.com/citations?user=-zlBDNIAAAAJ&hl=en).
+✨ Hi everyone! I am currently a Senior Applied Scientist at Microsoft. Before that, I spent a year at AWS Shanghai AI Lab as an Applied Scientist, until the lab closed. I earned my Ph.D. (in 2024) from The Hong Kong Polytechnic University, fortunately advised by Prof. [Maggie Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/). During the final year of my Ph.D. (2023-2024), I enjoyed the privilege of working closely with Assoc. Prof. [Pengfei Liu](http://pfliu.com/) at [GAIR Lab](https://plms.ai/), focusing on advancements in Large Language Models (LLMs). Earlier, I received my Bachelor (in 2017) and Master (in 2020) degrees from Fudan University, mentored by Assoc. Prof. [Zhipeng Xie](https://scholar.google.com/citations?user=-zlBDNIAAAAJ&hl=en).
 
-🔥 My research interests span Large Language Models, Retrieval-Augmented Generation, Text Summarization, and Math Reasoning. 
+🔥 My research interests span LLM-as-a-Judge, Retrieval-Augmented Generation (RAG), and Agentic AI.
 
 🚀 I am always open to new collaborations and engaging discussions. Feel free to reach out if you are interested in working together or just want to chat!
 
-🔔 Last Update on Oct. 2024
+🔔 Last Update on Sep. 2025
 
 <a href='https://scholar.google.com/citations?user=M7g3H9YAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+<div id="employments" markdown="1"> 
+# 💼 Employments
+</div>
+- *2025.09 - Present*, Senior Applied Scientist, Microsoft.
+- *2024.09 - 2025.08*, Applied Scientist, AWS Shanghai AI Lab.
 
 <div id="educations" markdown="1"> 
 # 📖 Educations
